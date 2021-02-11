@@ -778,6 +778,11 @@ namespace Galatee.DataAccess
             CsLclient lstFactiureAvc = Galatee.Tools.Utility.GetEntityListFromQuery<CsLclient>(dtevenet).FirstOrDefault();
             //if (lstFactiureAvc.DENR != new DateTime() && lstFactiureAvc.SOLDEFACTURE != 0 && lstFactiureAvc.SOLDEFACTURE != null)
             //{
+
+
+            if (lstFactiureAvc.MONTANT == null) //03/02/2021
+                lstFactiureAvc.MONTANT = 0; 
+
             DataTable dte = AccueilProcedures.RetourneFactureAvanceFromAbon(lstFactiureAvc.FK_IDCENTRE, lstFactiureAvc.CENTRE, lstFactiureAvc.CLIENT, lstFactiureAvc.ORDRE, lstFactiureAvc.DENR, lstFactiureAvc.MONTANT.Value);
 
             /*
