@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5e8c871e-d689-468a-a43b-d069883d09be" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/Fraude/FraudeService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FraudeService1.disco" MetadataType="Disco" ID="7c6390b8-716c-442b-abc6-96b306967c72" SourceId="1" SourceUrl="http://localhost:1819/Fraude/FraudeService.svc?disco" />
+    <MetadataFile FileName="FraudeService1.wsdl" MetadataType="Wsdl" ID="8fc2e8bf-9632-45cf-be2a-c85df9c9b822" SourceId="1" SourceUrl="http://localhost:1819/Fraude/FraudeService.svc?wsdl" />
+    <MetadataFile FileName="FraudeService4.xsd" MetadataType="Schema" ID="86afa50f-f7f4-42fa-9d6e-da984f38ebf8" SourceId="1" SourceUrl="http://localhost:1819/Fraude/FraudeService.svc?xsd=xsd2" />
+    <MetadataFile FileName="FraudeService41.xsd" MetadataType="Schema" ID="bae3117b-ccc0-4426-9e53-fea54d10ac1e" SourceId="1" SourceUrl="http://localhost:1819/Fraude/FraudeService.svc?xsd=xsd3" />
+    <MetadataFile FileName="FraudeService42.xsd" MetadataType="Schema" ID="e9897d53-44c4-43ac-b65b-c1b219b937dc" SourceId="1" SourceUrl="http://localhost:1819/Fraude/FraudeService.svc?xsd=xsd0" />
+    <MetadataFile FileName="FraudeService43.xsd" MetadataType="Schema" ID="dd8a1886-8424-434f-af14-fad262fefb4e" SourceId="1" SourceUrl="http://localhost:1819/Fraude/FraudeService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

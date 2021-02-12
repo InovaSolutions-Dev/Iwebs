@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="51bf570f-b567-4d46-ba36-cfed9a410c79" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/Facturation/FacturationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FacturationService1.disco" MetadataType="Disco" ID="94ab8b4c-2abe-4f3e-b2ff-7e5c56e7f11a" SourceId="1" SourceUrl="http://localhost:1819/Facturation/FacturationService.svc?disco" />
+    <MetadataFile FileName="FacturationService6.xsd" MetadataType="Schema" ID="8f6985d7-3af9-452f-ad50-d13f275ea8f8" SourceId="1" SourceUrl="http://localhost:1819/Facturation/FacturationService.svc?xsd=xsd2" />
+    <MetadataFile FileName="FacturationService61.xsd" MetadataType="Schema" ID="b03c6de6-853a-4461-9ebc-fb40f36d96a8" SourceId="1" SourceUrl="http://localhost:1819/Facturation/FacturationService.svc?xsd=xsd5" />
+    <MetadataFile FileName="FacturationService62.xsd" MetadataType="Schema" ID="37d10297-fbe7-4f76-981a-685e042b1393" SourceId="1" SourceUrl="http://localhost:1819/Facturation/FacturationService.svc?xsd=xsd4" />
+    <MetadataFile FileName="FacturationService1.wsdl" MetadataType="Wsdl" ID="c3ffa987-6fb7-40c4-b432-430829c5f524" SourceId="1" SourceUrl="http://localhost:1819/Facturation/FacturationService.svc?wsdl" />
+    <MetadataFile FileName="FacturationService63.xsd" MetadataType="Schema" ID="96a6faa9-a655-4f26-86ef-a619ca0937df" SourceId="1" SourceUrl="http://localhost:1819/Facturation/FacturationService.svc?xsd=xsd3" />
+    <MetadataFile FileName="FacturationService64.xsd" MetadataType="Schema" ID="9975f772-f3f7-4f54-a26e-e4311221c0c3" SourceId="1" SourceUrl="http://localhost:1819/Facturation/FacturationService.svc?xsd=xsd1" />
+    <MetadataFile FileName="FacturationService65.xsd" MetadataType="Schema" ID="7345c146-9d99-4d8c-b37d-5bb675e856a5" SourceId="1" SourceUrl="http://localhost:1819/Facturation/FacturationService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
