@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="584cb163-22af-4330-9793-3d607c73fabb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/Reclamation/ReclamationsService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ReclamationsService5.xsd" MetadataType="Schema" ID="9fe2fdeb-90c3-467e-81a7-4e3bc3e83520" SourceId="1" SourceUrl="http://localhost:1819/Reclamation/ReclamationsService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ReclamationsService51.xsd" MetadataType="Schema" ID="38e2e7d4-fdf0-478d-91f8-e3072c9e434e" SourceId="1" SourceUrl="http://localhost:1819/Reclamation/ReclamationsService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ReclamationsService52.xsd" MetadataType="Schema" ID="79d8a41b-09d2-4dd0-af48-9e7dbbb35e86" SourceId="1" SourceUrl="http://localhost:1819/Reclamation/ReclamationsService.svc?xsd=xsd3" />
+    <MetadataFile FileName="ReclamationsService53.xsd" MetadataType="Schema" ID="03f698ff-dda0-43c3-a46b-7df076a0f523" SourceId="1" SourceUrl="http://localhost:1819/Reclamation/ReclamationsService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ReclamationsService54.xsd" MetadataType="Schema" ID="ce6c6dcc-43e2-4878-833b-e317319f4237" SourceId="1" SourceUrl="http://localhost:1819/Reclamation/ReclamationsService.svc?xsd=xsd4" />
+    <MetadataFile FileName="ReclamationsService1.wsdl" MetadataType="Wsdl" ID="e077b617-23a6-4cb7-9505-006ac7f7e4ca" SourceId="1" SourceUrl="http://localhost:1819/Reclamation/ReclamationsService.svc?wsdl" />
+    <MetadataFile FileName="ReclamationsService1.disco" MetadataType="Disco" ID="998fc6f5-4602-4041-bb9b-3095fced1700" SourceId="1" SourceUrl="http://localhost:1819/Reclamation/ReclamationsService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
