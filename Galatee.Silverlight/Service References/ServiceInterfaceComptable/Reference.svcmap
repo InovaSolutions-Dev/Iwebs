@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b5f5a590-ee5e-44e1-913f-59e4e1b31f3d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/InterfaceComptable/InterfaceComptableService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="InterfaceComptableService1.wsdl" MetadataType="Wsdl" ID="5b4d2eb3-31e0-420a-8426-53c5831a6452" SourceId="1" SourceUrl="http://localhost:1819/InterfaceComptable/InterfaceComptableService.svc?wsdl" />
+    <MetadataFile FileName="InterfaceComptableService5.xsd" MetadataType="Schema" ID="995e9dbe-ad27-423b-b171-d0303e8deac1" SourceId="1" SourceUrl="http://localhost:1819/InterfaceComptable/InterfaceComptableService.svc?xsd=xsd2" />
+    <MetadataFile FileName="InterfaceComptableService51.xsd" MetadataType="Schema" ID="ad72772d-101c-475d-86cf-ba57322df0d7" SourceId="1" SourceUrl="http://localhost:1819/InterfaceComptable/InterfaceComptableService.svc?xsd=xsd3" />
+    <MetadataFile FileName="InterfaceComptableService1.disco" MetadataType="Disco" ID="f6d806e1-1a11-460b-b692-b8c72bc26dde" SourceId="1" SourceUrl="http://localhost:1819/InterfaceComptable/InterfaceComptableService.svc?disco" />
+    <MetadataFile FileName="InterfaceComptableService52.xsd" MetadataType="Schema" ID="9c0f21d3-679a-418c-a503-71cc8e58c7dc" SourceId="1" SourceUrl="http://localhost:1819/InterfaceComptable/InterfaceComptableService.svc?xsd=xsd4" />
+    <MetadataFile FileName="InterfaceComptableService53.xsd" MetadataType="Schema" ID="16ed6d84-79ce-4c1b-8026-ec98a71c3149" SourceId="1" SourceUrl="http://localhost:1819/InterfaceComptable/InterfaceComptableService.svc?xsd=xsd0" />
+    <MetadataFile FileName="InterfaceComptableService54.xsd" MetadataType="Schema" ID="3b904193-18fd-4dd6-aa12-1a89d33e11d7" SourceId="1" SourceUrl="http://localhost:1819/InterfaceComptable/InterfaceComptableService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
