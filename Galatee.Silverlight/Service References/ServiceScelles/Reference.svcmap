@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f8760352-b0a1-4ffe-a218-c1c22a746dfb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/Scelle/IScelleService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="IScelleService5.xsd" MetadataType="Schema" ID="df346afe-3a10-486e-9651-f54f6662a2cc" SourceId="1" SourceUrl="http://localhost:1819/Scelle/IScelleService.svc?xsd=xsd2" />
+    <MetadataFile FileName="IScelleService1.disco" MetadataType="Disco" ID="28aa3e5f-8fe7-48bd-ac0c-5dded8d4873e" SourceId="1" SourceUrl="http://localhost:1819/Scelle/IScelleService.svc?disco" />
+    <MetadataFile FileName="IScelleService51.xsd" MetadataType="Schema" ID="830e0811-3ce8-41f3-9927-a7cfbfac0a13" SourceId="1" SourceUrl="http://localhost:1819/Scelle/IScelleService.svc?xsd=xsd1" />
+    <MetadataFile FileName="IScelleService52.xsd" MetadataType="Schema" ID="fe6905b1-603f-4fe2-b5c0-c43040eb807e" SourceId="1" SourceUrl="http://localhost:1819/Scelle/IScelleService.svc?xsd=xsd3" />
+    <MetadataFile FileName="IScelleService53.xsd" MetadataType="Schema" ID="b1240885-5c8c-4976-abbe-7d8b4604019d" SourceId="1" SourceUrl="http://localhost:1819/Scelle/IScelleService.svc?xsd=xsd0" />
+    <MetadataFile FileName="IScelleService1.wsdl" MetadataType="Wsdl" ID="c341761f-7ed1-40d4-86a9-65f7bfd2b715" SourceId="1" SourceUrl="http://localhost:1819/Scelle/IScelleService.svc?wsdl" />
+    <MetadataFile FileName="IScelleService54.xsd" MetadataType="Schema" ID="31aa701a-ecea-4a26-bab6-884a8c88ef43" SourceId="1" SourceUrl="http://localhost:1819/Scelle/IScelleService.svc?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
