@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1776ce35-7108-4a5e-8cc6-355a03151d6f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/Caisse/CaisseService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CaisseService5.xsd" MetadataType="Schema" ID="ff4a7a34-e453-422b-9ad9-0cf55973256b" SourceId="1" SourceUrl="http://localhost:1819/Caisse/CaisseService.svc?xsd=xsd4" />
+    <MetadataFile FileName="CaisseService1.wsdl" MetadataType="Wsdl" ID="d28ddfd1-8715-481b-b27b-0203ed66e7a0" SourceId="1" SourceUrl="http://localhost:1819/Caisse/CaisseService.svc?wsdl" />
+    <MetadataFile FileName="CaisseService51.xsd" MetadataType="Schema" ID="07ae8c60-b461-47ab-959c-ddc2aae69b22" SourceId="1" SourceUrl="http://localhost:1819/Caisse/CaisseService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CaisseService52.xsd" MetadataType="Schema" ID="74440062-9756-4f4e-9fb0-038a850f0c2a" SourceId="1" SourceUrl="http://localhost:1819/Caisse/CaisseService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CaisseService53.xsd" MetadataType="Schema" ID="b24ce465-3444-4cd1-9fc4-864da4f76a9b" SourceId="1" SourceUrl="http://localhost:1819/Caisse/CaisseService.svc?xsd=xsd3" />
+    <MetadataFile FileName="CaisseService1.disco" MetadataType="Disco" ID="3aea3554-66c1-4ac6-8974-0d47dc8b4cc7" SourceId="1" SourceUrl="http://localhost:1819/Caisse/CaisseService.svc?disco" />
+    <MetadataFile FileName="CaisseService54.xsd" MetadataType="Schema" ID="0ca0367f-bf2f-4fbd-8edc-292302de12f5" SourceId="1" SourceUrl="http://localhost:1819/Caisse/CaisseService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
