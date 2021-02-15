@@ -1,0 +1,32 @@
+21/01/2021 01:08:03 | GetStrategieSecuriteActif | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+21/01/2021 01:08:03 | returnEnumereWrapper | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+21/01/2021 11:50:39 | LogException | Le nom d’utilisateur ou le mot de passe est incorrect
+
+21/01/2021 11:50:40 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+21/01/2021 11:50:40 | ChargerMenuEtSousMenu | Échec du fournisseur sous-jacent sur Open.
+
+21/01/2021 22:46:52 | LogException | Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: Session Provider, error: 19 - La connexion physique ne peut pas être utilisée)
+
+21/01/2021 22:46:52 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+21/01/2021 22:46:52 | UpdateUser | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+21/01/2021 22:47:23 | TraceDeConnection | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+21/01/2021 22:51:29 | returnEnumereWrapper | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+21/01/2021 22:52:15 | GetStrategieSecuriteActif | SPX_ADMIN_STRATEGIESECURITE_ACTIVE:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Le délai de temporisation de sémaphore a expiré.)
+
+21/01/2021 23:24:52 | returnEnumereWrapper | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+21/01/2021 23:25:06 | GetStrategieSecuriteActif | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+

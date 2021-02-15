@@ -1,0 +1,6 @@
+09/01/2021 23:56:14 | LogException | Dépassement du délai d’attente
+
+09/01/2021 23:56:14 | LogException | Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+09/01/2021 23:56:14 | ChargerMenuEtSousMenu | Échec du fournisseur sous-jacent sur Open.
+
