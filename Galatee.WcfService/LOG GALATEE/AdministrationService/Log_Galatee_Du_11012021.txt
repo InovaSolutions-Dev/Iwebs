@@ -1,0 +1,2 @@
+11/01/2021 19:56:13 | RetourneListePoste | SPX_PARAM_RETOURNELISTEPOSTE:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Le délai de temporisation de sémaphore a expiré.)
+
