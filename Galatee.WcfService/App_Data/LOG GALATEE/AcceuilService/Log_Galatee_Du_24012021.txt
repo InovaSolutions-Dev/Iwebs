@@ -1,0 +1,104 @@
+24/01/2021 21:17:48 | LicenceOK | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+24/01/2021 21:21:53 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:22:29 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:22:34 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:22:48 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:22:50 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:22:54 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:22:56 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:23:00 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:23:03 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:23:05 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:23:06 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:23:07 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:23:09 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+24/01/2021 21:23:16 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:23:27 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:23:29 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:23:31 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:23:40 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:23:40 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:23:50 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:23:52 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:23:52 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:24:00 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:24:17 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+24/01/2021 21:29:05 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:30:04 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:30:10 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:35:54 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:36:20 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:36:26 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:37:28 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:37:49 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:37:59 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 21:38:16 | SyncInvokeRetourneBorneDetailLotScelle | La séquence ne contient aucun élément correspondant.
+
+24/01/2021 21:38:29 | SyncInvokeRetourneBorneDetailLotScelle | La séquence ne contient aucun élément correspondant.
+
+24/01/2021 21:41:00 | SyncInvokeRetourneBorneDetailLotScelle | La séquence ne contient aucun élément correspondant.
+
+24/01/2021 21:42:52 | SyncInvokeRetourneBorneDetailLotScelle | La séquence ne contient aucun élément correspondant.
+
+24/01/2021 23:32:25 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+24/01/2021 23:33:06 | SyncInvokeRetourneCodeConsomateur | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+24/01/2021 23:33:06 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+24/01/2021 23:33:06 | SyncInvokeChargerTousFrequence | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+24/01/2021 23:33:07 | SyncInvokeRetourneCategorie | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+24/01/2021 23:33:07 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+24/01/2021 23:33:07 | SyncInvokeChargerLesTournees | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+24/01/2021 23:33:07 | SyncInvokeRetourneCodeRegroupement | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+24/01/2021 23:33:12 | SyncInvokeListeDesDonneesDesSite | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+24/01/2021 23:59:52 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+

@@ -1,0 +1,12 @@
+13/01/2021 00:56:23 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+13/01/2021 00:57:25 | SyncInvokeProcesVerbal | ProcesVerbal
+
+13/01/2021 00:58:41 | SyncInvokeProcesVerbal | ProcesVerbal
+
+13/01/2021 01:00:16 | SyncInvokeProcesVerbal | ProcesVerbal
+
+13/01/2021 01:01:15 | SyncInvokeProcesVerbal | ProcesVerbal
+
+13/01/2021 01:03:39 | SyncInvokeProcesVerbal | ProcesVerbal
+

@@ -1,0 +1,62 @@
+14/01/2021 01:24:52 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+14/01/2021 01:26:48 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 01:33:34 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 01:35:46 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 01:44:13 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 01:56:24 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 02:08:54 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+14/01/2021 02:10:20 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 02:12:00 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 02:14:22 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 02:37:12 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/01/2021 08:47:49 | LogException | Le chemin réseau n’a pas été trouvé
+
+14/01/2021 08:47:49 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+14/01/2021 08:47:49 | ChargerTypeDocument | Échec du fournisseur sous-jacent sur Open.
+
+14/01/2021 08:54:50 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+14/01/2021 08:54:58 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+14/01/2021 08:54:58 | SyncInvokeListeDesProduit | SPX_PARAM_SELECT_DONNEREFERENCE:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - La connexion réseau a été arrêtée par le système local.)
+
+
+14/01/2021 08:54:59 | SyncInvokeChargerLesRueDesSecteur | SPX_PARAM_SELECT_DONNEREFERENCE:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - La connexion réseau a été arrêtée par le système local.)
+
+14/01/2021 08:55:08 | SyncInvokeRetourneNature | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+14/01/2021 08:55:08 | SyncInvokeRetourneCodeConsomateur | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+
+
+
+14/01/2021 08:55:09 | SyncInvokeRetourneToutMarque | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+14/01/2021 08:55:10 | SyncInvokeChargerTarifParReglageCompteur | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'es14/01/2021 08:55:10 | SyncInvokeChargerTarifParCategorie | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+14/01/2021 08:55:11 | SyncInvokeRetourneTousCoper | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+14/01/2021 09:00:40 | SyncInvokeRetourneTousApplicationTaxe | SPX_PARAM_RETOURNEAPPLICATIONTAXE:Impossible de convertir l'objet de type 'System.Int32' en type 'System.String'.
+
+14/01/2021 09:02:14 | SyncInvokeProcesVerbal | ProcesVerbal
+
