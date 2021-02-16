@@ -1,0 +1,88 @@
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.exe.config
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.exe
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.DataAccess.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Structure.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\WcfService.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Entity.Model.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\EntityFramework.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Tools.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Newtonsoft.Json.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Oracle.DataAccess.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\INOVA.GALATEE.SECURITY.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Security.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.DataAccess.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Structure.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\WcfService.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Entity.Model.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Tools.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Security.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.csprojResolveAssemblyReference.cache
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.exe
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.exe.config
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.exe
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Structure.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\WcfService.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Entity.Model.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\EntityFramework.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Tools.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Newtonsoft.Json.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Oracle.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\INOVA.GALATEE.SECURITY.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Security.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Structure.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\WcfService.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Entity.Model.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Tools.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Security.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.exe
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.pdb
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.exe.config
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.exe
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.pdb
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Structure.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\WcfService.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Entity.Model.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\EntityFramework.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Tools.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Newtonsoft.Json.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Oracle.DataAccess.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\INOVA.GALATEE.SECURITY.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Security.dll
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Structure.pdb
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\WcfService.pdb
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Entity.Model.pdb
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Tools.pdb
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Security.pdb
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.exe
+G:\iWEBS_EDMSA\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.pdb
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.exe.config
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.exe
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\IntegrationDeFichier.pdb
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.DataAccess.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Structure.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\WcfService.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Entity.Model.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\EntityFramework.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Tools.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Newtonsoft.Json.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Oracle.DataAccess.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\INOVA.GALATEE.SECURITY.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Security.dll
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.DataAccess.pdb
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Structure.pdb
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\WcfService.pdb
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Entity.Model.pdb
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Tools.pdb
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\bin\Release\Galatee.Security.pdb
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.csprojResolveAssemblyReference.cache
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.exe
+E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\IntegrationDeFichier\obj\Release\IntegrationDeFichier.pdb
