@@ -2834,66 +2834,70 @@ namespace Galatee.DataAccess
         {
             try
             {
-                 var numero = IsAvisCerdit != true ? ListMandatementGc.First().NUMEROMANDATEMENT : "0000000000000";
-                 int idCampagne = ListMandatementGc.FirstOrDefault().IDCAMPAGNEGC;
-                 string Matricule = ListMandatementGc.FirstOrDefault().USERCREATION;
+                var numero = IsAvisCerdit != true ? ListMandatementGc.First().NUMEROMANDATEMENT : "0000000000000";
+                int idCampagne = ListMandatementGc.FirstOrDefault().IDCAMPAGNEGC;
+                string Matricule = ListMandatementGc.FirstOrDefault().USERCREATION;
 
-                 CsMandatementGc leMandatement = RetourneDonneCampagneGC(numero, idCampagne);
-                 if (leMandatement == null || leMandatement.FK_IDCAMPAGNA == null)
-                 {
-                     CsMapperMandatement Mand = new CsMapperMandatement();
-                     Mand.DATECREATION = System.DateTime.Now;
-                     Mand.DATEMODIFICATION = System.DateTime.Now;
-                     Mand.FK_IDCAMPAGNA = ListMandatementGc.First().IDCAMPAGNEGC;
-                     Mand.NUMEROMANDATEMENT = numero;
-                     Mand.USERCREATION = ListMandatementGc.First().USERCREATION;
-                     Mand.USERMODIFICATION = ListMandatementGc.First().USERMODIFICATION;
+                CsMandatementGc leMandatement = RetourneDonneCampagneGC(numero, idCampagne);
+                if (leMandatement == null || leMandatement.FK_IDCAMPAGNA == null)
+                {
+                    CsMapperMandatement Mand = new CsMapperMandatement();
+                    Mand.DATECREATION = System.DateTime.Now;
+                    Mand.DATEMODIFICATION = System.DateTime.Now;
+                    Mand.FK_IDCAMPAGNA = ListMandatementGc.First().IDCAMPAGNEGC;
+                    Mand.NUMEROMANDATEMENT = numero;
+                    Mand.USERCREATION = ListMandatementGc.First().USERCREATION;
+                    Mand.USERMODIFICATION = ListMandatementGc.First().USERMODIFICATION;
 
-                     List<CsMapperMandatement> LstMandatementGc = new List<CsMapperMandatement>();
-                     List<CsMapperDetailMandatement> ListDetailMandatementGc = new List<CsMapperDetailMandatement>();
-                     foreach (CsDetailCampagneGc item_ in ListMandatementGc)
-                     {
-                         CsMapperDetailMandatement DetailMand = new CsMapperDetailMandatement();
+                    List<CsMapperMandatement> LstMandatementGc = new List<CsMapperMandatement>();
+                    List<CsMapperDetailMandatement> ListDetailMandatementGc = new List<CsMapperDetailMandatement>();
+                    foreach (CsDetailCampagneGc item_ in ListMandatementGc)
+                    {
+                        CsMapperDetailMandatement DetailMand = new CsMapperDetailMandatement();
 
-                         DetailMand.CENTRE = item_.CENTRE;
-                         DetailMand.CLIENT = item_.CLIENT;
-                         DetailMand.DATECREATION = item_.DATECREATION;
-                         DetailMand.DATEMODIFICATION = item_.DATEMODIFICATION;
-                         DetailMand.MONTANT = item_.MONTANT;
-                         DetailMand.MONTANTTVA = RetourneLaFactureCampagneGC(item_.FK_IDLCLIENT).MONTANTTVA;
-                         DetailMand.NDOC = item_.NDOC;
-                         DetailMand.ORDRE = item_.ORDRE;
-                         DetailMand.PERIODE = item_.PERIODE;
-                         DetailMand.PK_ID = item_.PK_ID;
-                         DetailMand.FK_IDCLIENT = item_.FK_IDCLIENT;
-                         DetailMand.FK_IDLCLIENT = item_.FK_IDLCLIENT;
-                         DetailMand.STATUS = item_.STATUS;
-                         DetailMand.USERCREATION = item_.USERCREATION;
-                         DetailMand.USERMODIFICATION = item_.USERMODIFICATION;
+                        DetailMand.CENTRE = item_.CENTRE;
+                        DetailMand.CLIENT = item_.CLIENT;
+                        DetailMand.DATECREATION = item_.DATECREATION;
+                        DetailMand.DATEMODIFICATION = item_.DATEMODIFICATION;
+                        DetailMand.MONTANT = item_.MONTANT;
+                        DetailMand.MONTANTTVA = RetourneLaFactureCampagneGC(item_.FK_IDLCLIENT).MONTANTTVA;
+                        DetailMand.NDOC = item_.NDOC;
+                        DetailMand.ORDRE = item_.ORDRE;
+                        DetailMand.PERIODE = item_.PERIODE;
+                        DetailMand.PK_ID = item_.PK_ID;
+                        DetailMand.FK_IDCLIENT = item_.FK_IDCLIENT;
+                        DetailMand.FK_IDLCLIENT = item_.FK_IDLCLIENT;
+                        DetailMand.STATUS = item_.STATUS;
+                        DetailMand.USERCREATION = item_.USERCREATION;
+                        DetailMand.USERMODIFICATION = item_.USERMODIFICATION;
 
-                         ListDetailMandatementGc.Add(DetailMand);
-                     }
-                     Mand.MONTANT = ListDetailMandatementGc.Sum(t => t.MONTANT);
-                     LstMandatementGc.Add(Mand);
+                        ListDetailMandatementGc.Add(DetailMand);
+                    }
+                    Mand.MONTANT = ListDetailMandatementGc.Sum(t => t.MONTANT);
+                    LstMandatementGc.Add(Mand);
 
-                     int res = -1;
-                     SqlCommand cmd = DBBase.InitTransaction(ConnectionString);
-                     InsertEntfacteBulk(LstMandatementGc, ListDetailMandatementGc, cmd);
+                    int res = -1;
+                    SqlCommand cmd = DBBase.InitTransaction(ConnectionString);
+                    InsertEntfacteBulk(LstMandatementGc, ListDetailMandatementGc, cmd);
 
-                     galadbEntities context = new galadbEntities();
-                     new DbWorkFlow().ExecuterActionSurDemandeTransction(leMandatement.NUMEROCAMPAGNE , Enumere.TRANSMETTRE, Matricule, string.Empty, context);
-                     cmd.Transaction.Commit();
-                     return true;
+                    galadbEntities context = new galadbEntities();
+                    new DbWorkFlow().ExecuterActionSurDemandeTransction(leMandatement.NUMEROCAMPAGNE, Enumere.TRANSMETTRE, Matricule, string.Empty, context);
+                    cmd.Transaction.Commit();
+                    return true;
 
-                 }
-                 else return false;
+                }
+                else return false;
 
             }
             catch (Exception ex)
             {
+                cmd.Transaction.Rollback();
                 return null;
             }
-
+            finally
+            {
+                cmd.Dispose();
+            }
         }
 
        public DataTable RetourneListeFactureNonSoldeRegrouperProduitSpx(int idreg, string periode,int idProduit)
