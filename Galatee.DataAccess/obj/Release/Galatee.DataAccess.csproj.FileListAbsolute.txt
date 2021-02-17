@@ -545,3 +545,69 @@ E:\EDEN\EDMSA\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
 E:\EDEN\EDMSA\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
 E:\EDEN\EDMSA\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
 E:\EDEN\EDMSA\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\EntityFramework.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Excel.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\INOVA.GALATEE.SECURITY.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\ISF.Common.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\log4net.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\log4net.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\EntityFramework.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Excel.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\INOVA.GALATEE.SECURITY.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\ISF.Common.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\log4net.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\log4net.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\EntityFramework.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Excel.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\INOVA.GALATEE.SECURITY.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\ISF.Common.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\log4net.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\log4net.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
