@@ -191,13 +191,21 @@ namespace Galatee.DataAccess
         public int RechercherNombreClientRegrouper(CsRegCli leRegroupement)
         {
             cn = new SqlConnection(ConnectionString);
+            string lesCentre =string.Empty ;
+            if (leRegroupement.LstCentre != null && leRegroupement.LstCentre.Count != 0)
+                lesCentre = DBBase.RetourneStringListeObject(leRegroupement.LstCentre);
+
 
             cmd = new SqlCommand();
             cmd.Connection = cn;
             cmd.CommandTimeout = 6000;  //LKO le 06/01/2021 augmentation du timeout de 360  a 6000
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.CommandText = "SPX_ACC_NOMBRECLIENTREGROUPEMENT";
-            cmd.Parameters.Add("@IDREGROUPEMENT", SqlDbType.Int).Value = leRegroupement.PK_ID ;
+            cmd.Parameters.Add("@IDREGROUPEMENT", SqlDbType.Int).Value = leRegroupement.PK_ID;
+            cmd.Parameters.Add("@CENTRE", SqlDbType.VarChar, int.MaxValue).Value = lesCentre;
+       
+
+
             DBBase.SetDBNullParametre(cmd.Parameters);
             try
             {
@@ -778,11 +786,6 @@ namespace Galatee.DataAccess
             CsLclient lstFactiureAvc = Galatee.Tools.Utility.GetEntityListFromQuery<CsLclient>(dtevenet).FirstOrDefault();
             //if (lstFactiureAvc.DENR != new DateTime() && lstFactiureAvc.SOLDEFACTURE != 0 && lstFactiureAvc.SOLDEFACTURE != null)
             //{
-
-
-            if (lstFactiureAvc.MONTANT == null) //03/02/2021
-                lstFactiureAvc.MONTANT = 0; 
-
             DataTable dte = AccueilProcedures.RetourneFactureAvanceFromAbon(lstFactiureAvc.FK_IDCENTRE, lstFactiureAvc.CENTRE, lstFactiureAvc.CLIENT, lstFactiureAvc.ORDRE, lstFactiureAvc.DENR, lstFactiureAvc.MONTANT.Value);
 
             /*
@@ -2186,8 +2189,8 @@ namespace Galatee.DataAccess
                             AccueilProcedures.MiseAjoursAbonnementSeul(LaDemande, transaction);
                     }
 
-                    //else if (LaDemande.LaDemande.TYPEDEMANDE == Enumere.Resiliation)
-                    //    AccueilProcedures.MiseAjoursResiliation(LaDemande, transaction);
+                    else if (LaDemande.LaDemande.TYPEDEMANDE == Enumere.Resiliation)
+                        AccueilProcedures.MiseAjoursResiliation(LaDemande, transaction);
 
                     else if (LaDemande.LaDemande.TYPEDEMANDE == Enumere.DepannageEp)
                         AccueilProcedures.MiseAjoursDepannage(LaDemande, transaction);
@@ -5207,6 +5210,10 @@ namespace Galatee.DataAccess
                 {
                     cn = new SqlConnection(ConnectionString);
 
+                    string lesCentre = string.Empty;
+                    if (leClient.LstCentre != null && leClient.LstCentre.Count != 0)
+                        lesCentre = DBBase.RetourneStringListeObject(leClient.LstCentre);
+
                     cmd = new SqlCommand();
                     cmd.Connection = cn;
                     cmd.CommandTimeout = 3000;
@@ -5215,6 +5222,8 @@ namespace Galatee.DataAccess
                     cmd.Parameters.Add("@FK_IDREGROUPEMENT", SqlDbType.Int).Value = leClient.PK_ID;
                     cmd.Parameters.Add("@INDICE", SqlDbType.Int).Value = Indice;
                     cmd.Parameters.Add("@NOMBRE", SqlDbType.Int).Value = Nombre;
+                    cmd.Parameters.Add("@CENTRE", SqlDbType.VarChar, int.MaxValue).Value = lesCentre;
+
                     DBBase.SetDBNullParametre(cmd.Parameters);
                     try
                     {
@@ -13785,6 +13794,7 @@ namespace Galatee.DataAccess
                                 _LaDemande.LaDemande.TYPEDEMANDE == Enumere.Etalonage ||
                                 (_LaDemande.LaDemande.TYPEDEMANDE == Enumere.AugmentationPuissance && _LaDemande.LaDemande.ISMETREAFAIRE) ||
                                 (_LaDemande.LaDemande.TYPEDEMANDE == Enumere.DimunitionPuissance && _LaDemande.LaDemande.ISMETREAFAIRE) ||
+                                _LaDemande.LaDemande.TYPEDEMANDE == Enumere.Reabonnement ||
                                 (_LaDemande.LaDemande.TYPEDEMANDE == Enumere.AbonnementSeul && _LaDemande.LaDemande.ISMETREAFAIRE))
                             {
                                 _LaDemande.LstCanalistion = Select_DCanalisationInMagazin(NumDemande, idDemande, laConnection);

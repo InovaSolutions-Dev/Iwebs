@@ -187,25 +187,85 @@ namespace Galatee.DataAccess
             }
         }
 
+        /* 19/01/2021 Optimisation du classeur client Regroupe */
+        public int RechercherNombreClientRegrouper(CsRegCli leRegroupement)
+        {
+            cn = new SqlConnection(ConnectionString);
+            string lesCentre =string.Empty ;
+            if (leRegroupement.LstCentre != null && leRegroupement.LstCentre.Count != 0)
+                lesCentre = DBBase.RetourneStringListeObject(leRegroupement.LstCentre);
 
-       public Dictionary<List <CsClientRechercher >,List<CsLclient>> RechercherClientRegrouper(CsRegCli  leRegroupement)
+
+            cmd = new SqlCommand();
+            cmd.Connection = cn;
+            cmd.CommandTimeout = 6000;  //LKO le 06/01/2021 augmentation du timeout de 360  a 6000
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "SPX_ACC_NOMBRECLIENTREGROUPEMENT";
+            cmd.Parameters.Add("@IDREGROUPEMENT", SqlDbType.Int).Value = leRegroupement.PK_ID;
+            cmd.Parameters.Add("@CENTRE", SqlDbType.VarChar, int.MaxValue).Value = lesCentre;
+       
+
+
+            DBBase.SetDBNullParametre(cmd.Parameters);
+            try
+            {
+                if (cn.State == ConnectionState.Closed)
+                    cn.Open();
+                string Resultat = string.Empty ;
+                SqlDataReader reader = cmd.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    Resultat = reader["NOMBRECLIENTREGROUPEMENT"].ToString();
+                }
+                reader.Close(); 
+
+                return int.Parse(Resultat);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(cmd.CommandText + ":" + ex.Message);
+            }
+            finally
+            {
+                if (cn.State == ConnectionState.Open)
+                    cn.Close(); // Fermeture de la connection 
+                cmd.Dispose();
+            }
+        }
+
+        public Dictionary<List<CsClientRechercher>, List<CsLclient>> RechercherClientRegrouper(CsRegCli leRegroupement, int Indice, int Nombre)
         {
             //cmd.CommandText = "SPX_GUI_RECHERCHE_CLIENT";
             try
             {
                 Dictionary<List<CsClientRechercher>, List<CsLclient>> leResultat = new Dictionary<List<CsClientRechercher>, List<CsLclient>>();
-                List<CsClientRechercher> LesClient = RetourneClientSpx(leRegroupement);
-                List<CsLclient> lesFacture = RetourneCompteClientSpx(leRegroupement, string.Empty, string.Empty);
+                List<CsClientRechercher> LesClient = RetourneClientSpx(leRegroupement, Indice, Nombre);
+                List<CsLclient> lesFacture = new List<CsLclient>();
+                foreach (CsClientRechercher item in LesClient)
+                    lesFacture.AddRange( RetourneCompteClientSpx(item, string.Empty, string.Empty));
+                    
                 leResultat.Add(LesClient, lesFacture);
                 return leResultat;
-
             }
             catch (Exception ex)
             {
                 throw ex;
             }
         }
-    
+        public List<CsLclient> RechercherFactureRegrouper(CsClientRechercher leClient)
+        {
+            //cmd.CommandText = "SPX_GUI_RECHERCHE_CLIENT";
+            try
+            {
+                return RetourneCompteClientSpx(leClient,null,null);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        /*****LKO */
         public List<CsClientRechercher> RechercherClient(CsClientRechercher _CritereClient)
         {
             //cmd.CommandText = "SPX_GUI_RECHERCHE_CLIENT";
@@ -2129,8 +2189,8 @@ namespace Galatee.DataAccess
                             AccueilProcedures.MiseAjoursAbonnementSeul(LaDemande, transaction);
                     }
 
-                    //else if (LaDemande.LaDemande.TYPEDEMANDE == Enumere.Resiliation)
-                    //    AccueilProcedures.MiseAjoursResiliation(LaDemande, transaction);
+                    else if (LaDemande.LaDemande.TYPEDEMANDE == Enumere.Resiliation)
+                        AccueilProcedures.MiseAjoursResiliation(LaDemande, transaction);
 
                     else if (LaDemande.LaDemande.TYPEDEMANDE == Enumere.DepannageEp)
                         AccueilProcedures.MiseAjoursDepannage(LaDemande, transaction);
@@ -5146,7 +5206,7 @@ namespace Galatee.DataAccess
 
             #endregion
             #region MyRegion
-                public List<CsClientRechercher> RetourneClientSpx(CsRegCli leClient)
+            public List<CsClientRechercher> RetourneClientSpx(CsRegCli leClient, int Indice, int Nombre)
                 {
                     cn = new SqlConnection(ConnectionString);
 
@@ -5156,6 +5216,8 @@ namespace Galatee.DataAccess
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.CommandText = "SPX_ACC_CLIENTREGROUPEMENT";
                     cmd.Parameters.Add("@FK_IDREGROUPEMENT", SqlDbType.Int).Value = leClient.PK_ID;
+                    cmd.Parameters.Add("@INDICE", SqlDbType.Int).Value = Indice;
+                    cmd.Parameters.Add("@NOMBRE", SqlDbType.Int).Value = Nombre;
                     DBBase.SetDBNullParametre(cmd.Parameters);
                     try
                     {
@@ -5177,16 +5239,16 @@ namespace Galatee.DataAccess
                         cmd.Dispose();
                     }
                 }
-                public List<CsLclient> RetourneCompteClientSpx(CsRegCli leClient, string periodeDebut, string PeriodeFin)
+                public List<CsLclient> RetourneCompteClientSpx(CsClientRechercher  leClient, string periodeDebut, string PeriodeFin)
                 {
                     cn = new SqlConnection(ConnectionString);
 
                     cmd = new SqlCommand();
                     cmd.Connection = cn;
-                    cmd.CommandTimeout = 6000;
+                    cmd.CommandTimeout = 6000;  //LKO le 06/01/2021 augmentation du timeout de 360  a 6000
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.CommandText = "SPX_ACC_FACTURECLIENT";
-                    cmd.Parameters.Add("@FK_IDREGROUPEMENT", SqlDbType.Int).Value = leClient.PK_ID;
+                    cmd.Parameters.Add("@FK_IDCLIENT", SqlDbType.Int).Value = leClient.PK_ID;
                     cmd.Parameters.Add("@PERIODEDEBUT", SqlDbType.VarChar, 6).Value = periodeDebut;
                     cmd.Parameters.Add("@PERIODEFIN", SqlDbType.VarChar, 6).Value = PeriodeFin;
                     DBBase.SetDBNullParametre(cmd.Parameters);
@@ -13293,7 +13355,20 @@ namespace Galatee.DataAccess
                 if (lstCan != null && lstCan.Count != 0)
                 {
                     _LaDemande.LstCanalistion = new List<CsCanalisation>();
-                    _LaDemande.LstCanalistion.Add(lstCan.OrderByDescending(p => p.POSE).First());
+                    
+                    /* ZEG 26/01/2021 => CAS MODIFICATION COMPTEUR*/
+                        //_LaDemande.LstCanalistion.Add(lstCan.OrderByDescending(p => p.POSE).First());
+
+                    if (Typedemande == Enumere.ModificationCompteur)
+                    {
+                        if ((lstCan.First().PRODUIT != Enumere.ElectriciteMT && lstCan.Count > 1) || (lstCan.First().PRODUIT == Enumere.ElectriciteMT && lstCan.Count > 6))
+                            _LaDemande.LstCanalistion.AddRange(lstCan.Where(a => a.DEPOSE == null).OrderByDescending(p => p.POSE).ToList());
+                        else
+                            _LaDemande.LstCanalistion.AddRange(lstCan.OrderByDescending(p => p.POSE).ToList());
+                    }
+                    else
+                        _LaDemande.LstCanalistion.Add(lstCan.OrderByDescending(p => p.POSE).First());
+                    /* Fin ZEG*/
                 }
                 return _LaDemande;
             }
@@ -13658,10 +13733,13 @@ namespace Galatee.DataAccess
                     else
                     {
 
-                        if (_LaDemande.LaDemande.TYPEDEMANDE == Enumere.AchatTimbre )
+                        if (_LaDemande.LaDemande.TYPEDEMANDE == Enumere.AchatTimbre)
+                        {
                             _LaDemande.LstEltTimbre = Select_ElementAchatTimbre(NumDemande, idDemande, laConnection);
-
-                       else if (_LaDemande.LaDemande.TYPEDEMANDE == Enumere.ReprisIndex || _LaDemande.LaDemande.TYPEDEMANDE == Enumere.AnnulationFacture)
+                            _LaDemande.ObjetScanne = Select_DocumentTittre(idDemande, laConnection);
+                            _LaDemande.LstCommentaire = new DB_WORKFLOW().SelectCommentaireRejet(NumDemande, laConnection);
+                        }
+                        else if (_LaDemande.LaDemande.TYPEDEMANDE == Enumere.ReprisIndex || _LaDemande.LaDemande.TYPEDEMANDE == Enumere.AnnulationFacture)
                         {
                             _LaDemande.LeClient = Select_Dclient(NumDemande, idDemande, laConnection);
                             _LaDemande.LstEvenement = Select_Devenement(_LaDemande.LaDemande);
@@ -13674,7 +13752,7 @@ namespace Galatee.DataAccess
                             _LaDemande.PersonePhysique = Select_DPersonnePhysique(_LaDemande.LaDemande.PK_ID, laConnection);
                             _LaDemande.LstCommentaire = new DB_WORKFLOW().SelectCommentaireRejet(NumDemande, laConnection);
 
-                            _LaDemande.Ag = Select_DAg(NumDemande, idDemande,laConnection);
+                            _LaDemande.Ag = Select_DAg(NumDemande, idDemande, laConnection);
                             _LaDemande.LeClient = Select_Dclient(NumDemande, idDemande, laConnection);
 
                             if (_LaDemande.LeClient != null && _LaDemande.LeClient.PROPRIO == Enumere.LOCATAIRE)
