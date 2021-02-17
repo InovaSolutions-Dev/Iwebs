@@ -10402,95 +10402,95 @@ namespace Galatee.Entity.Model
                 //if (reader.Read())
                 dt.Load(reader);
 
-        //                    //     select new
-        //                    //     {
-        //                    //        t. PK_ID ,
-        //                    //        t. CENTRE ,
-        //                    //        t. CLIENT ,
-        //                    //        t. ORDRE ,
-        //                    //        t. REFEM ,
-        //                    //        t. NDOC ,
-        //                    //        t. COPER ,
-        //                    //        t. DENR ,
-        //                    //        t. EXIG ,
-        //                    //        t. MONTANT ,
-        //                    //        t. CAPUR ,
-        //                    //        t. CRET ,
-        //                    //        t. MODEREG ,
-        //                    //        t. DC ,
-        //                    //        t. ORIGINE ,
-        //                    //        t. CAISSE ,
-        //                    //        t. ECART ,
-        //                    //        t. MOISCOMPT ,
-        //                    //        t. TOP1 ,
-        //                    //        t. EXIGIBILITE ,
-        //                    //        t. FRAISDERETARD ,
-        //                    //        t. REFERENCEPUPITRE ,
-        //                    //        t. IDLOT ,
-        //                    //        t. DATEVALEUR ,
-        //                    //        t. REFERENCE ,
-        //                    //        t. REFEMNDOC ,
-        //                    //        t. ACQUIT ,
-        //                    //        t. MATRICULE ,
-        //                    //        t. TAXESADEDUIRE ,
-        //                    //        t. DATEFLAG ,
-        //                    //        t. MONTANTTVA ,
-        //                    //        t. IDCOUPURE ,
-        //                    //        t. AGENT_COUPURE ,
-        //                    //        t. RDV_COUPURE ,
-        //                    //        t. NUMCHEQ ,
-        //                    //        t. OBSERVATION_COUPURE ,
-        //                    //        t. USERCREATION ,
-        //                    //        t. DATECREATION ,
-        //                    //        t. DATEMODIFICATION ,
-        //                    //        t. USERMODIFICATION ,
-        //                    //        t. BANQUE ,
-        //                    //        t. GUICHET ,
-        //                    //        t. FK_IDCENTRE ,
-        //                    //        t. FK_IDADMUTILISATEUR ,
-        //                    //        t. FK_IDCOPER ,
-        //                    //        t. FK_IDLIBELLETOP ,
-        //                    //        t. FK_IDCLIENT ,
-        //                    //        t. FK_IDPOSTE ,
-        //                    //        t. POSTE ,
-        //                    //        t. DATETRANS ,
-        //                    //        t. ISNONENCAISSABLE ,
-        //                    //        t. FK_IDMORATOIRE ,
-        //                    //        t. FK_IDMOTIFCHEQUEINPAYE
-        //                    //     });
-        //    #endregion
-        //            //return Galatee.Tools.Utility.ListToDataTable(query);
-        //        //};
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        throw ex;
-        //    }
-        //}
+                //var LaListeFactureAvance = Galatee.Tools.Utility.GetEntityFromQuery<CsLclient>(dt);
+                var LaListeFactureAvance = Galatee.Tools.Utility.GetEntityListFromQuery<CsLclient>(dt);
 
-        //public static DataTable RetourneFactureAvanceFromAbon(int idcentre,string centre,string client,string ordre ,DateTime Denreg, decimal montant)
-        //{
-        //    try
-        //    {
-        //        InitConnectionString();
-        //        string refem = Denreg.Year.ToString() + Denreg.Month.ToString("00");
-        //          cn = new SqlConnection(ConnectionString);
 
-        //                cmd = new SqlCommand();
-        //                cmd.Connection = cn;
-        //                cmd.CommandTimeout = 720;
-        //                cmd.CommandType = CommandType.StoredProcedure;
-        //                cmd.CommandText = "SPX_ACC_GET_CAUTION";
-        //                cmd.Parameters.Add("@idCentre", SqlDbType.Int).Value = idcentre;
-        //                cmd.Parameters.Add("@Client", SqlDbType.VarChar, 20).Value = client;
-        //                cmd.Parameters.Add("@Ordre", SqlDbType.VarChar, 2).Value = ordre;
+                //LaListeFactureAvance = LaListeFactureAvance.Where(f => f.REFEM == refem && f.MONTANT == montant);
+                return Galatee.Tools.Utility.ListToDataTable(LaListeFactureAvance);
+                //return dt;
+                #region Commentaire
+                //using (galadbEntities context = new galadbEntities())
+                //{
+                //    IEnumerable<object> query = null;
+                //    var _x = context.LCLIENT ;
+                //    query =
+                //    (from t in _x
+                //     where t.FK_IDCENTRE == idcentre &&
+                //             t.CENTRE == centre  &&
+                //             t.CLIENT == client   &&
+                //             t.ORDRE == ordre &&
+                //             t.COPER == Enumere.CoperCAU &&
+                //             t.REFEM == refem &&
+                //             //t.DENR == Denreg && 
+                //             t.MONTANT == montant
 
-        //                SetDBNullParametre(cmd.Parameters);
-        //                //try
-        //                //{
-        //                    if (cn.State == ConnectionState.Closed)
-        //                        cn.Open();
 
+                //     select new
+                //     {
+                //        t. PK_ID ,
+                //        t. CENTRE ,
+                //        t. CLIENT ,
+                //        t. ORDRE ,
+                //        t. REFEM ,
+                //        t. NDOC ,
+                //        t. COPER ,
+                //        t. DENR ,
+                //        t. EXIG ,
+                //        t. MONTANT ,
+                //        t. CAPUR ,
+                //        t. CRET ,
+                //        t. MODEREG ,
+                //        t. DC ,
+                //        t. ORIGINE ,
+                //        t. CAISSE ,
+                //        t. ECART ,
+                //        t. MOISCOMPT ,
+                //        t. TOP1 ,
+                //        t. EXIGIBILITE ,
+                //        t. FRAISDERETARD ,
+                //        t. REFERENCEPUPITRE ,
+                //        t. IDLOT ,
+                //        t. DATEVALEUR ,
+                //        t. REFERENCE ,
+                //        t. REFEMNDOC ,
+                //        t. ACQUIT ,
+                //        t. MATRICULE ,
+                //        t. TAXESADEDUIRE ,
+                //        t. DATEFLAG ,
+                //        t. MONTANTTVA ,
+                //        t. IDCOUPURE ,
+                //        t. AGENT_COUPURE ,
+                //        t. RDV_COUPURE ,
+                //        t. NUMCHEQ ,
+                //        t. OBSERVATION_COUPURE ,
+                //        t. USERCREATION ,
+                //        t. DATECREATION ,
+                //        t. DATEMODIFICATION ,
+                //        t. USERMODIFICATION ,
+                //        t. BANQUE ,
+                //        t. GUICHET ,
+                //        t. FK_IDCENTRE ,
+                //        t. FK_IDADMUTILISATEUR ,
+                //        t. FK_IDCOPER ,
+                //        t. FK_IDLIBELLETOP ,
+                //        t. FK_IDCLIENT ,
+                //        t. FK_IDPOSTE ,
+                //        t. POSTE ,
+                //        t. DATETRANS ,
+                //        t. ISNONENCAISSABLE ,
+                //        t. FK_IDMORATOIRE ,
+                //        t. FK_IDMOTIFCHEQUEINPAYE
+                //     });
+                #endregion
+                //return Galatee.Tools.Utility.ListToDataTable(query);
+                //};
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
         //                    SqlDataReader reader = cmd.ExecuteReader();
         //                    DataTable dt = new DataTable();
         //                    //if (reader.Read())

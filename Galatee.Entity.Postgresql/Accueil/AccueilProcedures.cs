@@ -91,9 +91,6 @@ namespace Galatee.Entity.Model
             return connectionString;
            
         }
-
-
-
           private static bool IsConnexionValide(string connString, ref string Erreur)
         {
             SqlConnection sqlConnection = new SqlConnection(connString);
@@ -9631,131 +9628,131 @@ namespace Galatee.Entity.Model
                 throw e;
             }
         }
-        //public static bool MiseAjoursResiliation(CsClient  pLeclient,CsDemandeBase laDemande, galadbEntities pContext)
-        //{
-        //    try
-        //    {
-        //        galadbEntities _LeContextInter = new galadbEntities();
-        //        ABON _LeAbon = new ABON();
-        //        TRANSCAISB _LeAvance = new TRANSCAISB();
-        //        List<CANALISATION> lstCanalisation = new List<CANALISATION>();
+        public static bool MiseAjoursResiliation(CsClient pLeclient, CsDemandeBase laDemande, galadbEntities pContext)
+        {
+            try
+            {
+                galadbEntities _LeContextInter = new galadbEntities();
+                ABON _LeAbon = new ABON();
+                TRANSCAISB _LeAvance = new TRANSCAISB();
+                List<CANALISATION> lstCanalisation = new List<CANALISATION>();
 
-        //        if (pLeclient != null)
-        //        {
-        //            ABON _LeAbonnement = pContext.ABON.FirstOrDefault(t => t.PK_ID == pLeclient.FK_IDABON);
-        //            if (_LeAbonnement != null)
-        //            {
-        //                _LeAbonnement.DRES = System.DateTime.Today;
-        //                _LeAbonnement.USERMODIFICATION = laDemande.MATRICULE;
+                if (pLeclient != null)
+                {
+                    ABON _LeAbonnement = pContext.ABON.FirstOrDefault(t => t.PK_ID == pLeclient.FK_IDABON);
+                    if (_LeAbonnement != null)
+                    {
+                        _LeAbonnement.DRES = System.DateTime.Today;
+                        _LeAbonnement.USERMODIFICATION = laDemande.MATRICULE;
 
-        //                lstCanalisation = pContext.CANALISATION.Where(t => t.FK_IDABON == _LeAbonnement.PK_ID && t.DEPOSE == null).ToList();
-        //                foreach (CANALISATION item in lstCanalisation)
-        //                {
-        //                    item.DEPOSE = System.DateTime.Today;
-        //                    item.USERMODIFICATION = laDemande.MATRICULE;
-        //                }
-        //            }
-        //            if (_LeAbonnement.AVANCE != null && _LeAbonnement.AVANCE != 0)
-        //            {
-        //                _LeAvance = RetourneAvance(_LeAbonnement);
+                        lstCanalisation = pContext.CANALISATION.Where(t => t.FK_IDABON == _LeAbonnement.PK_ID && t.DEPOSE == null).ToList();
+                        foreach (CANALISATION item in lstCanalisation)
+                        {
+                            item.DEPOSE = System.DateTime.Today;
+                            item.USERMODIFICATION = laDemande.MATRICULE;
+                        }
+                    }
+                    if (_LeAbonnement.AVANCE != null && _LeAbonnement.AVANCE != 0)
+                    {
+                        _LeAvance = RetourneAvance(_LeAbonnement);
 
 
-        //                DataTable dte = AccueilProcedures.RetourneFactureAvanceFromAbon(_LeAbonnement.FK_IDCENTRE, _LeAbonnement.CENTRE, _LeAbonnement.CLIENT, _LeAbonnement.ORDRE, _LeAbonnement.DAVANCE.Value, _LeAbonnement.AVANCE.Value);
-        //                CsLclient lstFactiureAvance = Galatee.Tools.Utility.GetEntityFromQuery<CsLclient>(dte).FirstOrDefault();
-        //                if (lstFactiureAvance != null && lstFactiureAvance.CLIENT != null)
-        //                {
-        //                    _LeAvance.NDOC = lstFactiureAvance.NDOC;
-        //                    _LeAvance.FK_IDLCLIENT = lstFactiureAvance.PK_ID;
-        //                    _LeAvance.USERCREATION = laDemande.MATRICULE;
-        //                    _LeAvance.DATECREATION = System.DateTime.Now;
-        //                    if (_LeAvance.CLIENT != null)
-        //                        Entities.InsertEntity<TRANSCAISB>(_LeAvance, pContext);
-        //                }
-        //                else
-        //                {
-        //                    LCLIENT laFactureAvnce = new LCLIENT();
-        //                    string Periode = (_LeAbonnement.DAVANCE.Value.Year.ToString() + _LeAbonnement.DAVANCE.Value.Month.ToString("00"));
-        //                    laFactureAvnce = RetourneFactureAvance(_LeAbonnement, _LeAbonnement.AVANCE.Value, Periode);
-        //                    _LeAvance.USERCREATION = laDemande.MATRICULE;
-        //                    _LeAvance.DATECREATION = System.DateTime.Now;
-        //                    _LeAvance.REFEM = laFactureAvnce.REFEM;
-        //                    _LeAvance.NDOC = laFactureAvnce.NDOC;
-        //                    laFactureAvnce.TRANSCAISB.Add(_LeAvance);
-        //                    Entities.InsertEntity<LCLIENT>(laFactureAvnce, pContext);
-        //                }
-        //            }
-        //            _LeContextInter.Dispose();
-        //        }
-        //        return true;
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        throw e;
-        //    }
-        //}
-        //public static bool MiseAjoursResiliation(CsDemande pDemande, galadbEntities pContext)
-        //{
-        //    try
-        //    {
-        //        galadbEntities _LeContextInter = new galadbEntities();
-        //        ABON _LeAbon = new ABON();
-        //        TRANSCAISB _LeAvance = new TRANSCAISB();
-        //        List<CANALISATION> lstCanalisation = new List<CANALISATION>();
+                        DataTable dte = AccueilProcedures.RetourneFactureAvanceFromAbon(_LeAbonnement.FK_IDCENTRE, _LeAbonnement.CENTRE, _LeAbonnement.CLIENT, _LeAbonnement.ORDRE, _LeAbonnement.DAVANCE.Value, _LeAbonnement.AVANCE.Value);
+                        CsLclient lstFactiureAvance = Galatee.Tools.Utility.GetEntityFromQuery<CsLclient>(dte).FirstOrDefault();
+                        if (lstFactiureAvance != null && lstFactiureAvance.CLIENT != null)
+                        {
+                            _LeAvance.NDOC = lstFactiureAvance.NDOC;
+                            _LeAvance.FK_IDLCLIENT = lstFactiureAvance.PK_ID;
+                            _LeAvance.USERCREATION = laDemande.MATRICULE;
+                            _LeAvance.DATECREATION = System.DateTime.Now;
+                            if (_LeAvance.CLIENT != null)
+                                Entities.InsertEntity<TRANSCAISB>(_LeAvance, pContext);
+                        }
+                        else
+                        {
+                            LCLIENT laFactureAvnce = new LCLIENT();
+                            string Periode = (_LeAbonnement.DAVANCE.Value.Year.ToString() + _LeAbonnement.DAVANCE.Value.Month.ToString("00"));
+                            laFactureAvnce = RetourneFactureAvance(_LeAbonnement, _LeAbonnement.AVANCE.Value, Periode);
+                            _LeAvance.USERCREATION = laDemande.MATRICULE;
+                            _LeAvance.DATECREATION = System.DateTime.Now;
+                            _LeAvance.REFEM = laFactureAvnce.REFEM;
+                            _LeAvance.NDOC = laFactureAvnce.NDOC;
+                            laFactureAvnce.TRANSCAISB.Add(_LeAvance);
+                            Entities.InsertEntity<LCLIENT>(laFactureAvnce, pContext);
+                        }
+                    }
+                    _LeContextInter.Dispose();
+                }
+                return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
+        public static bool MiseAjoursResiliation(CsDemande pDemande, galadbEntities pContext)
+        {
+            try
+            {
+                galadbEntities _LeContextInter = new galadbEntities();
+                ABON _LeAbon = new ABON();
+                TRANSCAISB _LeAvance = new TRANSCAISB();
+                List<CANALISATION> lstCanalisation = new List<CANALISATION>();
 
-        //        if (pDemande.Abonne != null)
-        //        {
-        //            pDemande.Abonne.USERMODIFICATION = pDemande.LaDemande.MATRICULE ;
-        //            ABON _LeAbonnement = pContext.ABON.FirstOrDefault(t => t.FK_IDCENTRE == pDemande.Abonne.FK_IDCENTRE && t.CENTRE == pDemande.Abonne.CENTRE && t.CLIENT == pDemande.Abonne.CLIENT && pDemande.Abonne.ORDRE == t.ORDRE);
-        //            if (_LeAbonnement != null)
-        //            {
-        //                _LeAbonnement.DRES = System.DateTime.Today;
-        //                _LeAbonnement.USERMODIFICATION = pDemande.LaDemande.MATRICULE;
-                        
-        //                lstCanalisation = pContext.CANALISATION.Where(t => t.FK_IDABON == _LeAbonnement.PK_ID && t.DEPOSE == null ).ToList();
-        //                foreach (CANALISATION item in lstCanalisation)
-        //                {
-        //                    item.DEPOSE = System.DateTime.Today;
-        //                    item.USERMODIFICATION = pDemande.LaDemande.MATRICULE;
-        //                }
-        //            }
-        //            if (_LeAbonnement.AVANCE != null && _LeAbonnement.AVANCE != 0)
-        //            {
-        //                _LeAvance = RetourneAvance(_LeAbonnement);
-        //                DataTable dte = AccueilProcedures.RetourneFactureAvanceFromAbon(_LeAbonnement.FK_IDCENTRE ,_LeAbonnement.CENTRE ,_LeAbonnement.CLIENT ,_LeAbonnement.ORDRE ,_LeAbonnement.DAVANCE.Value ,_LeAbonnement.AVANCE.Value );
-        //                CsLclient lstFactiureAvance = Galatee.Tools.Utility.GetEntityFromQuery<CsLclient>(dte).FirstOrDefault();
-        //                if (lstFactiureAvance != null && lstFactiureAvance.CLIENT != null)
-        //                {
-        //                    _LeAvance.NDOC = lstFactiureAvance.NDOC;
-        //                    _LeAvance.FK_IDLCLIENT = lstFactiureAvance.PK_ID;
-        //                    _LeAvance.USERCREATION = pDemande.LaDemande.MATRICULE;
-        //                    _LeAvance.DATECREATION = System.DateTime.Now;
-        //                    if (_LeAvance.CLIENT != null)
-        //                        Entities.InsertEntity<TRANSCAISB>(_LeAvance, pContext);
-        //                }
-        //                else
-        //                {
-        //                    LCLIENT laFactureAvnce = new LCLIENT();
-        //                    string Periode = (_LeAbonnement.DAVANCE.Value.Year.ToString()+ _LeAbonnement.DAVANCE.Value.Month.ToString("00"));
-        //                    laFactureAvnce = RetourneFactureAvance(_LeAbonnement, _LeAbonnement.AVANCE.Value, Periode);
-        //                    _LeAvance.USERCREATION = pDemande.LaDemande.MATRICULE;
-        //                    _LeAvance.DATECREATION = System.DateTime.Now;
-        //                    _LeAvance.REFEM = laFactureAvnce.REFEM ;
-        //                    _LeAvance.NDOC  = laFactureAvnce.NDOC;
-        //                    laFactureAvnce.TRANSCAISB.Add(_LeAvance);
-        //                    Entities.InsertEntity<LCLIENT>(laFactureAvnce, pContext);
-        //                }
+                if (pDemande.Abonne != null)
+                {
+                    pDemande.Abonne.USERMODIFICATION = pDemande.LaDemande.MATRICULE;
+                    ABON _LeAbonnement = pContext.ABON.FirstOrDefault(t => t.FK_IDCENTRE == pDemande.Abonne.FK_IDCENTRE && t.CENTRE == pDemande.Abonne.CENTRE && t.CLIENT == pDemande.Abonne.CLIENT && pDemande.Abonne.ORDRE == t.ORDRE);
+                    if (_LeAbonnement != null)
+                    {
+                        _LeAbonnement.DRES = System.DateTime.Today;
+                        _LeAbonnement.USERMODIFICATION = pDemande.LaDemande.MATRICULE;
 
-        //                _LeAbonnement.AVANCE = 0;
-        //            }
-        //            _LeContextInter.Dispose();
-        //        }
-        //        return true;
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        throw e;
-        //    }
-        //}
+                        lstCanalisation = pContext.CANALISATION.Where(t => t.FK_IDABON == _LeAbonnement.PK_ID && t.DEPOSE == null).ToList();
+                        foreach (CANALISATION item in lstCanalisation)
+                        {
+                            item.DEPOSE = System.DateTime.Today;
+                            item.USERMODIFICATION = pDemande.LaDemande.MATRICULE;
+                        }
+                    }
+                    if (_LeAbonnement.AVANCE != null && _LeAbonnement.AVANCE != 0)
+                    {
+                        _LeAvance = RetourneAvance(_LeAbonnement);
+                        DataTable dte = AccueilProcedures.RetourneFactureAvanceFromAbon(_LeAbonnement.FK_IDCENTRE, _LeAbonnement.CENTRE, _LeAbonnement.CLIENT, _LeAbonnement.ORDRE, _LeAbonnement.DAVANCE.Value, _LeAbonnement.AVANCE.Value);
+                        CsLclient lstFactiureAvance = Galatee.Tools.Utility.GetEntityFromQuery<CsLclient>(dte).FirstOrDefault();
+                        if (lstFactiureAvance != null && lstFactiureAvance.CLIENT != null)
+                        {
+                            _LeAvance.NDOC = lstFactiureAvance.NDOC;
+                            _LeAvance.FK_IDLCLIENT = lstFactiureAvance.PK_ID;
+                            _LeAvance.USERCREATION = pDemande.LaDemande.MATRICULE;
+                            _LeAvance.DATECREATION = System.DateTime.Now;
+                            if (_LeAvance.CLIENT != null)
+                                Entities.InsertEntity<TRANSCAISB>(_LeAvance, pContext);
+                        }
+                        else
+                        {
+                            LCLIENT laFactureAvnce = new LCLIENT();
+                            string Periode = (_LeAbonnement.DAVANCE.Value.Year.ToString() + _LeAbonnement.DAVANCE.Value.Month.ToString("00"));
+                            laFactureAvnce = RetourneFactureAvance(_LeAbonnement, _LeAbonnement.AVANCE.Value, Periode);
+                            _LeAvance.USERCREATION = pDemande.LaDemande.MATRICULE;
+                            _LeAvance.DATECREATION = System.DateTime.Now;
+                            _LeAvance.REFEM = laFactureAvnce.REFEM;
+                            _LeAvance.NDOC = laFactureAvnce.NDOC;
+                            laFactureAvnce.TRANSCAISB.Add(_LeAvance);
+                            Entities.InsertEntity<LCLIENT>(laFactureAvnce, pContext);
+                        }
+
+                        _LeAbonnement.AVANCE = 0;
+                    }
+                    _LeContextInter.Dispose();
+                }
+                return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
         public static void MiseAjoursTransfertSiteNonMigre2(CsDemande pDemande, galadbEntities pContext)
         {
 
