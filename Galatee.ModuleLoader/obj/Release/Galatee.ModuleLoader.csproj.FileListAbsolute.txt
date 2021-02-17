@@ -7456,525 +7456,770 @@ G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\
 G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.dll
 G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.pdb
 G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\XapCacheFile.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\AppManifest.xaml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.xap
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoaderTestPage.html
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ComponentModel.DataAnnotations.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.Web.Extensions.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.Internals.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Interactivity.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Serialization.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\UpdateControls.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Linq.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Input.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Data.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ComponentModel.DataAnnotations.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.Web.Extensions.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Serialization.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Linq.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Input.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Data.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Serialization.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Linq.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.csprojResolveAssemblyReference.cache
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\App.g.cs
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\MainPage.g.cs
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.g.resources
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\XapCacheFile.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\AppManifest.xaml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.xap
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoaderTestPage.html
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ComponentModel.DataAnnotations.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.Web.Extensions.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.Internals.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Interactivity.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Serialization.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\UpdateControls.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Linq.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Input.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Data.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ComponentModel.DataAnnotations.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.Web.Extensions.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Serialization.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Linq.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Input.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Data.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Serialization.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Linq.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.csprojResolveAssemblyReference.cache
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\App.g.cs
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\MainPage.g.cs
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.g.resources
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\XapCacheFile.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\AppManifest.xaml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.xap
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoaderTestPage.html
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ComponentModel.DataAnnotations.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.Web.Extensions.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.Internals.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Interactivity.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Serialization.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\UpdateControls.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Linq.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Input.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Data.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\App.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\MainPage.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.g.resources
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\XapCacheFile.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\AppManifest.xaml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.xap
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoaderTestPage.html
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ComponentModel.DataAnnotations.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.Web.Extensions.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.Internals.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Interactivity.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Serialization.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\UpdateControls.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Linq.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Input.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Data.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Linq.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Serialization.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Linq.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\App.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\MainPage.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.g.resources
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\XapCacheFile.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\AppManifest.xaml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoader.xap
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.ModuleLoaderTestPage.html
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ComponentModel.DataAnnotations.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.Web.Extensions.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.Internals.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Interactivity.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Serialization.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\UpdateControls.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Linq.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Input.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Data.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\Galatee.Silverlight.Library.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ComponentModel.DataAnnotations.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.DomainServices.Client.Web.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.ServiceModel.Web.Extensions.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.DataForm.Toolkit.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Toolkit.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Input.Toolkit.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Layout.Toolkit.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Toolkit.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Xml.Serialization.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.Input.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Data.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\System.Windows.Controls.Data.xml
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Serialization.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Xml.Linq.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ar\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\bg\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ca\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\cs\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\da\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\el\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\et\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\eu\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fi\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\he\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hr\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\hu\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\id\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lt\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\lv\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ms\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\nl\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\no\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pl\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\pt-BR\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ro\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\ru\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sk\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sl\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\sv\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\th\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\tr\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\uk\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\vi\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.csprojResolveAssemblyReference.cache
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\App.g.cs
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\MainPage.g.cs
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.g.resources
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.dll
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\Galatee.ModuleLoader.pdb
+E:\DOCUMENTATION\EDMSA\LIVRAISON 2021 02 15 - SPRINT 2\SPRINT 2\iWEBS_EDMSA\Galatee.ModuleLoader\obj\Release\XapCacheFile.xml
