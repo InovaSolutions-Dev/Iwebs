@@ -1271,7 +1271,11 @@ namespace Galatee.Silverlight.Accueil
                 dataGrid1.SelectedItem = null;
                 tab4_dataGridFacture.ItemsSource = null;
                 if (this.txt_Regroupement.Tag != null)
-                    RechercherNombreClientRegrouper((ServiceAccueil.CsRegCli)this.txt_Regroupement.Tag);
+                {
+                    CsRegCli leRegSelectionne =(ServiceAccueil.CsRegCli)this.txt_Regroupement.Tag;
+                    leRegSelectionne.LstCentre =this.Txt_LibelleCentre.Tag != null ? (List<string>)this.Txt_LibelleCentre.Tag :null ;
+                    RechercherNombreClientRegrouper(leRegSelectionne);
+                }
             }
             catch (Exception ex)
             {

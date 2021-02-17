@@ -1257,7 +1257,7 @@ namespace Galatee.Silverlight.Accueil
         }
 
 
-
+        bool Sortie = false;
         private void button4_Click(object sender, RoutedEventArgs e)
         {
 
@@ -1271,10 +1271,7 @@ namespace Galatee.Silverlight.Accueil
                 dataGrid1.SelectedItem = null;
                 tab4_dataGridFacture.ItemsSource = null;
                 if (this.txt_Regroupement.Tag != null)
-                {
-                    RechercheClientRegroupement((CsRegCli)this.txt_Regroupement.Tag);
-                    RechercheMandatementRegroupement((CsRegCli)this.txt_Regroupement.Tag);
-                }
+                    RechercherNombreClientRegrouper((ServiceAccueil.CsRegCli)this.txt_Regroupement.Tag);
             }
             catch (Exception ex)
             {
@@ -1744,7 +1741,49 @@ namespace Galatee.Silverlight.Accueil
         List<Galatee.Silverlight.ServiceAccueil.CsClientRechercher> _LstClient = new List<Galatee.Silverlight.ServiceAccueil.CsClientRechercher>();
         List<Galatee.Silverlight.ServiceAccueil.CsMandatementGc> _LstMandatement = new List<Galatee.Silverlight.ServiceAccueil.CsMandatementGc>();
 
-        private void RechercheClientRegroupement(CsRegCli _LeRegroupement)
+        private void RechercherNombreClientRegrouper(CsRegCli _LeRegroupement)
+        {
+            int res = LoadingManager.BeginLoading(Langue.En_Cours);
+            try
+            {
+                AcceuilServiceClient service = new AcceuilServiceClient(Utility.ProtocoleFacturation(), Utility.EndPoint("Accueil"));
+                service.RechercherNombreClientRegrouperCompleted += (s, args) =>
+                {
+                    LoadingManager.EndLoading(res);
+                    if (args != null && args.Cancelled)
+                    {
+                        LoadingManager.EndLoading(res);
+                        return;
+                    }
+                    if (args.Result != 0 )
+                    {
+                        int Indice = 0; int Nombre = 100;
+
+                        int NombreDeClientDuRegroupement = args.Result;
+
+                        int boucle = (NombreDeClientDuRegroupement / Nombre) + 1;
+
+                        for (int i = 0; i < boucle; i++)
+                        {
+                            RechercheClientRegroupement((CsRegCli)this.txt_Regroupement.Tag, Indice, Nombre, ref Sortie);
+                            Indice = Indice + Nombre;
+                        }
+                        RechercheMandatementRegroupement((CsRegCli)this.txt_Regroupement.Tag);
+                    }
+
+                };
+                service.RechercherNombreClientRegrouperAsync(_LeRegroupement);
+                service.CloseAsync();
+            }
+            catch (Exception ex)
+            {
+                LoadingManager.EndLoading(res);
+                string error = ex.Message;
+            }
+
+        }
+
+        private void RechercheClientRegroupement(CsRegCli _LeRegroupement,int Indice,int Nombre,ref bool Sortir)
         {
             int res = LoadingManager.BeginLoading(Langue.En_Cours);
             try
@@ -1752,6 +1791,7 @@ namespace Galatee.Silverlight.Accueil
                 AcceuilServiceClient service = new AcceuilServiceClient(Utility.ProtocoleFacturation(), Utility.EndPoint("Accueil"));
                 service.RechercherClientRegrouperCompleted += (s, args) =>
                 {
+                    LoadingManager.EndLoading(res);
                     if (args != null && args.Cancelled)
                     {
                         LoadingManager.EndLoading(res);
@@ -1761,12 +1801,11 @@ namespace Galatee.Silverlight.Accueil
                     {
                         foreach (var item in args.Result)
                         {
-                            _LstClient = item.Key;
-                            _LstLClient = item.Value;
+                            _LstClient.AddRange(item.Key);
+                            _LstLClient.AddRange(item.Value);
                         }
                         if (_LstClient != null && _LstClient.Count != 0)
                         {
-                            LoadingManager.EndLoading(res);
                             dataGrid1.ItemsSource = null;
                             System.Windows.Data.PagedCollectionView view = new System.Windows.Data.PagedCollectionView(_LstClient);
                             dataGrid1.ItemsSource = view;
@@ -1780,10 +1819,10 @@ namespace Galatee.Silverlight.Accueil
                             decimal _totalCredit = 0;
                             decimal _SoldeRegroupement = 0;
 
-                            _totalDebit = decimal.Parse(_LstLClient.Sum(o=>o.MONTANT).ToString());
+                            _totalDebit = decimal.Parse(_LstLClient.Sum(o => o.MONTANT).ToString());
                             this.tab4_txt_TotalDebit.Text = _totalDebit.ToString(SessionObject.FormatMontant);
 
-                            _totalCredit = decimal.Parse(_LstLClient.Sum(o => o.MONTANTCREDIT ).ToString());
+                            _totalCredit = decimal.Parse(_LstLClient.Sum(o => o.MONTANTCREDIT).ToString());
                             this.tab4_txt_TotalCredit.Text = _totalCredit.ToString(SessionObject.FormatMontant);
 
                             _SoldeRegroupement = decimal.Parse(_LstLClient.Sum(o => o.SOLDEFACTURE).ToString());
@@ -1793,12 +1832,13 @@ namespace Galatee.Silverlight.Accueil
                     }
                     else
                     {
-                        Message.Show(Langue.MsgEltInexistent, Langue.lbl_Menu);
+                        Sortie = true;
+                        //Message.Show(Langue.MsgEltInexistent, Langue.lbl_Menu);
                         LoadingManager.EndLoading(res);
                     }
 
                 };
-                service.RechercherClientRegrouperAsync(_LeRegroupement);
+                service.RechercherClientRegrouperAsync(_LeRegroupement, Indice, Nombre,Sortir);
                 service.CloseAsync();
             }
             catch (Exception ex)
@@ -1808,6 +1848,53 @@ namespace Galatee.Silverlight.Accueil
             }
 
         }
+
+
+        private void RechercheFactureRegroupement(Galatee.Silverlight.ServiceAccueil.CsClientRechercher _leClient)
+        {
+            int res = LoadingManager.BeginLoading(Langue.En_Cours);
+            try
+            {
+                AcceuilServiceClient service = new AcceuilServiceClient(Utility.ProtocoleFacturation(), Utility.EndPoint("Accueil"));
+                service.RechercherFactureRegrouperCompleted += (s, args) =>
+                {
+                    LoadingManager.EndLoading(res);
+                    if (args != null && args.Cancelled)
+                    {
+                        LoadingManager.EndLoading(res);
+                        return;
+                    }
+                    if (args.Result != null && args.Result.Count != 0)
+                        _LstLClient.AddRange(args.Result);
+
+                    tab4_dataGridFacture.ItemsSource = null;
+                    tab4_dataGridFacture.ItemsSource = _LstLClient;
+
+                    decimal _totalDebit = 0;
+                    decimal _totalCredit = 0;
+                    decimal _SoldeRegroupement = 0;
+
+                    _totalDebit = decimal.Parse(_LstLClient.Sum(o => o.MONTANT).ToString());
+                    this.tab4_txt_TotalDebit.Text = _totalDebit.ToString(SessionObject.FormatMontant);
+
+                    _totalCredit = decimal.Parse(_LstLClient.Sum(o => o.MONTANTCREDIT).ToString());
+                    this.tab4_txt_TotalCredit.Text = _totalCredit.ToString(SessionObject.FormatMontant);
+
+                    _SoldeRegroupement = decimal.Parse(_LstLClient.Sum(o => o.SOLDEFACTURE).ToString());
+                    tab4_txt_balance.Text = _SoldeRegroupement.ToString(SessionObject.FormatMontant);
+
+                };
+                service.RechercherFactureRegrouperAsync(_leClient);
+                service.CloseAsync();
+            }
+            catch (Exception ex)
+            {
+                LoadingManager.EndLoading(res);
+                string error = ex.Message;
+            }
+
+        }
+
 
         private void RechercheMandatementRegroupement(CsRegCli _LeRegroupement)
         {
