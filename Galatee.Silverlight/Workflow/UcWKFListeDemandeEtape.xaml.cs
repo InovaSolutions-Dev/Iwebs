@@ -24,7 +24,6 @@ namespace Galatee.Silverlight.Workflow
 
         //List<DemandeWorkflowInformation> LstLesDemandes;
         List<DemandeWorkflowInformation> LstLesDemandes;
-        List<DemandeWorkflowInformation> LstLesDemandesDefault;
         List<CsAffectationDemandeUser> lsDemandesAffectes;
         DemandeWorkflowInformation DmdSelectionnee;
         List<CsCopieDmdConditionBranchement> toutesConditionsDeLEtape;
@@ -187,10 +186,6 @@ namespace Galatee.Silverlight.Workflow
         {
             CancelButton.Content = Languages.Annuler;
         }
-
-
-
-
         void RechercheDemande(List<int> LesCentreHabilite,string NumDemande,bool IsToutAfficher)
         {
             if (Guid.Empty != _OperationID && 0 != FKEtape)
@@ -1322,24 +1317,8 @@ namespace Galatee.Silverlight.Workflow
                           RechercheDemande(lesCentre.Select(t => t.PK_ID).ToList(), this.Txt_NumDevis.Text, false);
                     }
                     else if (Chk_ToutAfficher.IsChecked.Value == true)
-                    {
-                        SauvegarderListeDefault();
                         RechercheDemande(lesCentre.Select(t => t.PK_ID).ToList(), this.Txt_NumDevis.Text, true);
-                    }
-                    else if (!Chk_ToutAfficher.IsChecked.Value)
-                    {
-                        List<DemandeWorkflowInformation> lesDemandes =
-                       LstLesDemandesDefault.Where(t => (lstCentreSiteDist.Count == 0 || lstCentreSiteDist.Contains(t.FK_IDCENTRE)) &&
-                                                   (lstCentreSelect.Count == 0 || lstCentreSelect.Contains(t.FK_IDCENTRE)) &&
-                                                   (pCommnue.Count == 0 || pCommnue.Contains(t.COMMUNE)) &&
-                                                   (pQuartier.Count == 0 || pQuartier.Contains(t.QUARTIER)) 
-                                                   ).ToList();
-                        if (lesDemandes != null && lesDemandes.Count() != 0)
-                        {
-                            this.dtgrdParametre.ItemsSource = null;
-                            this.dtgrdParametre.ItemsSource = lesDemandes;
-                        }
-                    }
+
                          
                 }
             }
@@ -1348,69 +1327,6 @@ namespace Galatee.Silverlight.Workflow
                 throw ex;
             }
         }
-
-        private void SauvegarderListeDefault()
-        {
-            LstLesDemandesDefault = new List<DemandeWorkflowInformation>();
-            foreach (var dmd in LstLesDemandes)
-            {
-                var dmdInfo = new DemandeWorkflowInformation()
-                {
-                    ALERTE = dmd.ALERTE,
-                    CODE = dmd.CODE,
-                    CONTROLEETAPE = dmd.CONTROLEETAPE,
-                    DATECREATION = dmd.DATECREATION,
-                    DATEDERNIEREMODIFICATION = dmd.DATEDERNIEREMODIFICATION,
-                    DUREE = dmd.DUREE,
-                    ETAPEPRECEDENTE = dmd.ETAPEPRECEDENTE,
-                    FK_IDCENTRE = dmd.FK_IDCENTRE,
-                    FK_IDETAPE = dmd.FK_IDETAPE,
-                    FK_IDETAPEACTUELLE = dmd.FK_IDETAPEACTUELLE,
-                    FK_IDGROUPEVALIDATIOIN = dmd.FK_IDGROUPEVALIDATIOIN,
-                    FK_IDMENU = dmd.FK_IDMENU,
-                    FK_IDOPERATION = dmd.FK_IDOPERATION,
-                    FK_IDSTATUS = dmd.FK_IDSTATUS,
-                    FK_IDWORKFLOW = dmd.FK_IDWORKFLOW,
-                    IDCIRCUIT = dmd.IDCIRCUIT,
-                    IDETAPE = dmd.IDETAPE,
-                    MATRICULEUSERCREATION = dmd.MATRICULEUSERCREATION,
-                    ORDRE = dmd.ORDRE,
-                    NOM = dmd.NOM,
-                    NOMABON = dmd.NOMABON,
-                    NOMOPERATION = NomOperation,
-                    ALLCENTRE = dmd.ALLCENTRE,
-                    CODECENTRE = dmd.CODECENTRE,
-                    CODESITE = dmd.CODESITE,
-                    IDCENTRE = dmd.IDCENTRE,
-                    IDSITE = dmd.IDSITE,
-                    LIBELLECENTRE = dmd.LIBELLECENTRE,
-                    LIBELLESITE = dmd.LIBELLESITE,
-                    LIBELLEPRODUIT = dmd.LIBELLEPRODUIT,
-                    FK_IDLIGNETABLETRAVAIL = dmd.FK_IDLIGNETABLETRAVAIL,
-                    FK_IDTABLETRAVAIL = dmd.FK_IDTABLETRAVAIL,
-                    ESTAFFECTE = false,
-                    UTILISATEURAFFECTE = string.Empty,
-                    CODE_DEMANDE_TABLETRAVAIL = dmd.CODE_DEMANDE_TABLETRAVAIL,
-                    MODIFICATION = dmd.MODIFICATION,
-                    FK_IDETAPECIRCUIT = dmd.FK_IDETAPECIRCUIT,
-                    LIBELLECOMMUNE = dmd.LIBELLECOMMUNE,
-                    LIBELLEQUARTIER = dmd.LIBELLEQUARTIER,
-                    QUARTIER = dmd.QUARTIER,
-                    COMMUNE = dmd.COMMUNE
-                };
-
-                if (dmdInfo.DATEDERNIEREMODIFICATION.HasValue && dmdInfo.DUREE.HasValue)
-                {
-                    dmdInfo.DATEFINTRAITEMENT = dmdInfo.DATEDERNIEREMODIFICATION.Value.AddDays(dmdInfo.DUREE.Value);
-                }
-                dmdInfo.COMBINAISON_FKETAPE_FKOPERATION = "";
-                dmdInfo.STATUT = EnumStatutDemande.RecupererLibelleStatutDemande((WorkflowManager.STATUSDEMANDE)dmd.FK_IDSTATUS);
-                LstLesDemandesDefault.Add(dmdInfo);
-            }
-        }
-
-
-
         private void Cbo_Centre_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             try
