@@ -2683,277 +2683,271 @@ G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\Licence\obj\Release\Licence.dll
 G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\Licence\obj\Release\Licence.pdb
 G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\Licence\obj\Release\XapCacheFile.xml
 G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\Licence\obj\Release\Licence.csprojResolveAssemblyReference.cache
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\Licence.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\Licence.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\AppManifest.xaml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\Licence.xap
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\LicenceTestPage.html
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\Galatee.Silverlight.Security.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\System.ComponentModel.DataAnnotations.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.Data.Input.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\Galatee.Silverlight.Security.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\System.ComponentModel.DataAnnotations.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.Data.Input.xml
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\en-US\Galatee.Silverlight.Security.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ar\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\bg\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ca\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\cs\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\da\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\de\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\el\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\es\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\et\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\eu\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\fi\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\fr\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\he\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\hr\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\hu\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\id\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\it\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ja\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ko\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\lt\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\lv\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ms\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\nl\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\no\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pl\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pt\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ro\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ru\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sk\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sl\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sv\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\th\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\tr\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\uk\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\vi\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\Licence.csprojResolveAssemblyReference.cache
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\App.g.cs
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\FrmGenereChaineConnexion.g.cs
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\FrmGenereLicence.g.cs
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\MainPage.g.cs
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\Licence.g.resources
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\Licence.dll
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\Licence.pdb
-G:\iWEBS_EDMSA\iWEBS_EDMSA\Licence\obj\Release\XapCacheFile.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\Licence.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\Licence.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\AppManifest.xaml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\Licence.xap
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\LicenceTestPage.html
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\Galatee.Silverlight.Security.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\System.ComponentModel.DataAnnotations.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.Data.Input.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\Galatee.Silverlight.Security.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\System.ComponentModel.DataAnnotations.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.Data.Input.xml
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\en-US\Galatee.Silverlight.Security.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ar\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\bg\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ca\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\cs\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\da\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\de\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\el\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\es\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\et\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\eu\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\fi\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\fr\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\he\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\hr\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\hu\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\id\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\it\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ja\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ko\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\lt\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\lv\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ms\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\nl\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\no\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pl\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pt\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ro\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ru\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sk\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sl\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sv\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\th\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\tr\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\uk\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\vi\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\Licence.csprojResolveAssemblyReference.cache
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\App.g.cs
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\FrmGenereChaineConnexion.g.cs
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\FrmGenereLicence.g.cs
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\MainPage.g.cs
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\Licence.g.resources
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\Licence.dll
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\Licence.pdb
-E:\EDMSA\Code source Sprint 2\New version\iWEBS_EDMSA\Licence\obj\Release\XapCacheFile.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\Licence.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\Licence.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\AppManifest.xaml
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\Licence.xap
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\LicenceTestPage.html
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\Galatee.Silverlight.Security.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\System.ComponentModel.DataAnnotations.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.Data.Input.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\Galatee.Silverlight.Security.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\en-US\Galatee.Silverlight.Security.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ar\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\bg\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ca\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\cs\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\da\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\de\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\el\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\es\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\et\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\eu\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\fi\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\fr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\he\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\hr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\hu\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\id\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\it\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ja\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ko\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\lt\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\lv\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ms\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\nl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\no\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pt\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ro\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ru\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sk\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sv\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\th\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\tr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\uk\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\vi\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\Licence.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\App.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\FrmGenereChaineConnexion.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\FrmGenereLicence.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\MainPage.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\Licence.g.resources
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\Licence.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\Licence.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\Licence\obj\Release\XapCacheFile.xml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\Licence.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\Licence.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\AppManifest.xaml
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\Licence.xap
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\LicenceTestPage.html
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\Galatee.Silverlight.Security.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\System.ComponentModel.DataAnnotations.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.Data.Input.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\System.Windows.Controls.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\Galatee.Silverlight.Security.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\en-US\Galatee.Silverlight.Security.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ar\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\bg\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ca\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\cs\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\da\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\de\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\el\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\es\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\et\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\eu\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\fi\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\fr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\he\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\hr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\hu\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\id\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\it\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ja\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ko\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\lt\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\lv\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ms\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\nl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\no\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pt\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ro\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ru\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sk\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sl\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sv\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\th\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\tr\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\uk\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\vi\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\Licence.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\App.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\FrmGenereChaineConnexion.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\FrmGenereLicence.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\MainPage.g.cs
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\Licence.g.resources
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\Licence.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\Licence.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\Licence\obj\Release\XapCacheFile.xml
