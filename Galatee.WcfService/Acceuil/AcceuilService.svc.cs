@@ -754,10 +754,8 @@ namespace WcfService
             try
             {
                 //LKO le 06/01/2021 trace des duré d'execution//
-                ErrorManager.WriteInLogFile(this, "Debut rechercher de donnée client ");
                 DBAccueil db = new DBAccueil();
                 Dictionary<List<CsClientRechercher>, List<CsLclient>> lstResultat = db.RechercherClientRegrouper(leRegroupement, Indice, Nombre);
-                ErrorManager.WriteInLogFile(this, "Fin rechercher de donnée client ");
                 return lstResultat;
                 //return db.RechercherClientRegrouper(leRegroupement);
                 //Fin  LKO
